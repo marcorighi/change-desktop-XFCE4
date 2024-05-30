@@ -1,0 +1,9 @@
+#xrandr --listmonitors
+MONITOR1="HDMI-0"
+MONITOR2="VGA-0"
+MONITOR3="DVI-D-1"
+
+# Directory contenenti le immagini per ciascun monitor
+MONITOR1_DIR=~/mysyncIP/sfondi/A
+MONITOR2_DIR=~/mysyncIP/sfondi/Wallpaper_Zone
+MONITOR3_DIR=~/mysyncIP/sfondi/B

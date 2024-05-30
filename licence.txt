@@ -1,0 +1,43 @@
+### License Agreement
+
+This License Agreement ("Agreement") governs the use, modification, and distribution of the software program "change_wallpapers.sh" ("Software") created by Marco Righi ("Author").
+
+By using, modifying, or distributing the Software, you agree to the following terms and conditions:
+
+#### 1. Permission to Use
+You are permitted to use the Software only after obtaining explicit written permission from the Author. To request permission, you must send an email to the Author at the following address:
+
+Email: marco.righi@isti.cnr.it
+
+#### 2. Modification and Distribution
+- If you modify the Software, you must clearly state the following information in any distributed version of the modified Software:
+  - Original Author: Marco Righi
+  - Contact Email: marco.righi@isti.cnr.it
+- You must also notify the Author via email (marco.righi@isti.cnr.it) of any modifications you make to the Software.
+
+#### 3. Copyright Notice
+All copies and substantial portions of the Software must include the following copyright notice:
+
+```
+© 2024 Marco Righi. All rights reserved.
+```
+
+#### 4. Disclaimer of Warranty
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the Author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+#### 5. Limitation of Liability
+In no event shall the Author be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of the use of or inability to use the Software, even if the Author has been advised of the possibility of such damages.
+
+#### 6. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of Italy, without regard to its conflict of law principles.
+
+#### 7. Termination
+The permission granted under this Agreement will terminate automatically without notice if you fail to comply with any of the terms and conditions. Upon termination, you must cease all use of the Software and destroy all copies of the Software.
+
+By using the Software, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions. If you do not agree to these terms, you must not use the Software.
+
+---
+
+Marco Righi  
+Email: marco.righi@isti.cnr.it  
+© 2024 Marco Righi. All rights reserved.
